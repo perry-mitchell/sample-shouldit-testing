@@ -1,0 +1,14 @@
+{
+	"name": "feature-testing",
+	"description": "Test app",
+	"version": "0.1.1",
+	"license": "MIT",
+	"dependencies": {
+	},
+	"devDependencies": {
+		"grunt":				"0.4.x",
+		"grunt-contrib-jasmine":"0.9.x",
+		"grunt-contrib-jshint":	"0.11.x",
+		"load-grunt-tasks":		"3.2.x"
+	}
+}
